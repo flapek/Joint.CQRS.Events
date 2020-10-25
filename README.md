@@ -1,5 +1,10 @@
 # Joint.CQRS.Events
 
+| Branch  | Build status                                                                                                                         |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| master  | [![Build Status](https://travis-ci.org/flapek/Joint.CQRS.Events.svg?branch=master)](https://travis-ci.org/flapek/Joint.CQRS.Events)  |
+| develop | [![Build Status](https://travis-ci.org/flapek/Joint.CQRS.Events.svg?branch=develop)](https://travis-ci.org/flapek/Joint.CQRS.Events) |
+
 ## Events
 
 Adds ability to create and process **events** in the sense of [CQRS](https://martinfowler.com/bliki/CQRS.html).
